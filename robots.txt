@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://github.com/paito-mbah-semar/pagi-3/sitemap.xml
